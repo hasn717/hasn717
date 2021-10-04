@@ -16,7 +16,7 @@
 
 - 💬 Ask me about: GIS, Mapping APIs, Esri or open source location technology
 
-- 📫 How to reach me: hasn717@gmail.com
+- 📫 How to reach me: hasn717@gmail.com or Linkedin https://www.linkedin.com/in/mohamd-othman/
 
 - 😄  ⚡ other hhoppies than coding: Reading books (The Alchemist is my best book ever), basketball
  
