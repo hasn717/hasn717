@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at TomTom
 
-- 🌱 I’m currently learning MSc Software Engineering at Heriot Watt university part time 
+- 🌱 I’m currently studying MSc Software Engineering at Heriot Watt university part time 
 
 - 👯 I’m looking to collaborate on GIS projects, mapping data, Location intelligence 
 
